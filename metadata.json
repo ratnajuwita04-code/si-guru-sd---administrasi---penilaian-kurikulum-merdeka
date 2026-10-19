@@ -1,0 +1,6 @@
+{
+  "name": "SI-GURU SD - Administrasi & Penilaian Kurikulum Merdeka",
+  "description": "Aplikasi lengkap administrasi guru SD: manajemen siswa, presensi harian, penilaian Kurikulum Merdeka, modul ajar, bank soal, dan jurnal mengajar oleh Ratna Juwita, S.Pd.I.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
